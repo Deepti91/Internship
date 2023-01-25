@@ -1,0 +1,351 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "fb43ab74",
+   "metadata": {},
+   "source": [
+    "# STATISTICS WORKSHEET-3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "19cfaab0",
+   "metadata": {},
+   "source": [
+    "Assignment Solutions"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "316019ca",
+   "metadata": {},
+   "source": [
+    "Q1 to Q9 have only one correct answer. Choose the correct option to answer your question."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ea50a9f5",
+   "metadata": {},
+   "source": [
+    "1. Which of the following is the correct formula for total variation?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3fd3b373",
+   "metadata": {},
+   "source": [
+    "Ans. a) Total Variation = Residual Variation – Regression Variation"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "85dc24bd",
+   "metadata": {},
+   "source": [
+    "2. Collection of exchangeable binary outcomes for the same covariate data are called outcomes."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "021d84c9",
+   "metadata": {},
+   "source": [
+    "Ans. c) binomial"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ee8c2d7b",
+   "metadata": {},
+   "source": [
+    "  3.How many outcomes are possible with Bernoulli trial?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "66357a5e",
+   "metadata": {},
+   "source": [
+    "Ans. a) 2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1a2bfb08",
+   "metadata": {},
+   "source": [
+    "4.If Ho is true and we reject it is called"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "411dc90f",
+   "metadata": {},
+   "source": [
+    "Ans. a) Type-I error"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7232d1ad",
+   "metadata": {},
+   "source": [
+    "5.Level of significance is also called:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5b36ee54",
+   "metadata": {},
+   "source": [
+    "Ans. a) Power of the test "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "31c935a0",
+   "metadata": {},
+   "source": [
+    "6.The chance of rejecting a true hypothesis decreases when sample size is:  "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7210fa33",
+   "metadata": {},
+   "source": [
+    "Ans. a) Decrease"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4e440a4a",
+   "metadata": {},
+   "source": [
+    "7.Which of the following testing is concerned with making decisions using data?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9de1956b",
+   "metadata": {},
+   "source": [
+    "Ans.b) Hypothesis"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6d5733a1",
+   "metadata": {},
+   "source": [
+    "8.What is the purpose of multiple testing in statistical inference?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "176be546",
+   "metadata": {},
+   "source": [
+    "Ans.d) All of the mentioned"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3a973388",
+   "metadata": {},
+   "source": [
+    "9.Normalized data are centred at and have units equal to standard deviations of the original data"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1ba14015",
+   "metadata": {},
+   "source": [
+    "Ans.a) 0"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9b5e06db",
+   "metadata": {},
+   "source": [
+    "Q.10 and Q.15 are subjective answer type questions, Answer them in your own words briefly."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "660a9871",
+   "metadata": {},
+   "source": [
+    "10.What Is Bayes' Theorem?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6b1354a3",
+   "metadata": {},
+   "source": [
+    "Ans.Bayes' Theorem states that the conditional probability of an event, based on the occurrence of another event, is equal to the likelihood of the second event given the first event multiplied by the probability of the first event."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5bf341f7",
+   "metadata": {},
+   "source": [
+    "11. What is z-score?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7c4dd288",
+   "metadata": {},
+   "source": [
+    "Ans.Z-score is a statistical measurement that describes a value's relationship to the mean of a group of values. Z-score is measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point's score is identical to the mean score."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d1677843",
+   "metadata": {},
+   "source": [
+    "12.What is t-test?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a4ac806b",
+   "metadata": {},
+   "source": [
+    "Ans.A t-test is a statistical calculation that measures the difference in means between two sample groups. The results from a t-test evaluate the significance of the mean difference to determine whether the outcomes occur by chance."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "25e97251",
+   "metadata": {},
+   "source": [
+    "13.What is percentile?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "28c34c06",
+   "metadata": {},
+   "source": [
+    "Ans.Within a set of data, the nth percentile describes the value below which n% of the data, when sorted, fall. For example, within the integer sequence spanning from 0 to 100, 50 is the 50th percentile or median, 10 is the 10th percentile, and 90 is the 90th percentile."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a0428191",
+   "metadata": {},
+   "source": [
+    "14. What is ANOVA?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "906552c0",
+   "metadata": {},
+   "source": [
+    "Ans. Analysis of variance, or ANOVA, is a strong statistical technique that is used to show the difference between two or more means or components through significance tests. It also shows us a way to make multiple comparisons of several populations means."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b8605428",
+   "metadata": {},
+   "source": [
+    "15. How can ANOVA help?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d884d44c",
+   "metadata": {},
+   "source": [
+    "Ans. ANOVA is helpful for testing three or more variables. It is similar to multiple two-sample t-tests. However, it results in fewer type I errors and is appropriate for a range of issues. ANOVA groups differences by comparing the means of each group and includes spreading out the variance into diverse sources."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4b04b62a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "35903b36",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6c1ed9e8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "df426a27",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e14f841c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0663cb3a",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5b67e1f0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
